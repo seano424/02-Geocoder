@@ -1,0 +1,16 @@
+/* TODO: Put your CSS code in here */
+
+.container {
+  margin: 15% auto;
+  width: 50vw;
+  height: 100vh;
+}
+
+
+.displayMap {
+  width: 40vw;
+}
+
+#map {
+  margin-top: 20px;
+}
